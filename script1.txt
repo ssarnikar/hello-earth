@@ -1,1 +1,3 @@
-Test script file for hello-earth git local repository
+Test script file added in hello-earth git local repository
+
+testing changes to file
